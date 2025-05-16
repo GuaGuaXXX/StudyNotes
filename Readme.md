@@ -8,6 +8,9 @@
 NOTES
 │  EMV-L1规范学习笔记.md
 │  Readme.md
-│
+│  固件编译与下载.md
+│  
 └─pic
+        SunmiDownloader.exe.png
+        sunmi_downloader.exe.png
 ```
